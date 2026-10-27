@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Mauhnish
 
-<!--
-**monisayshs/monisayshs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build fast, mobile-friendly websites for small businesses, and I create useful tools and books along the way.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[TextToSpeechH AI](https://www.texttospeechh.com)** — a free text-to-speech tool I built and run. Turn text, PDFs and documents into natural voiceovers, no sign-up needed.
+- **[BarkatixStudio](https://barkatixstudio.vercel.app)** — my portfolio and web design studio. If your business needs a website that actually brings enquiries, have a look.
+
+## Books
+
+I publish large-print puzzle books for seniors as Monis Barkati — see my [Amazon author page](https://www.amazon.com/author/monisbarkati).
+
+## Get in touch
+
+- Email: hello@texttospeechh.com
